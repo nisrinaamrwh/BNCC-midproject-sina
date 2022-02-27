@@ -1,0 +1,43 @@
+.banner {
+    background: #7d81cc;
+    padding: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.banner>h1{
+    font-size: 50px ;
+}
+
+.banner>p{
+    font-size: 25px;
+}
+
+
+/* game content */
+.game-content{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.game-content>.title{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.game-content>.author {
+    font-size: 13px;
+}
+
+.game-content>.page{
+    font-size: 19px;
+    margin-top: 10px;
+}
+
+.game-content>.release-year{
+    font-size: 17px;
+}
+
+.manage-wrapper{
+    padding: 30px;
+    border-radius: 10px;
+}
